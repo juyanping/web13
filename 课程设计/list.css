@@ -1,0 +1,178 @@
+*{
+	margin:0px auto;
+	padding:0px;
+	font-size:14px;
+	font-family:宋体;
+}
+.logo{
+	
+	float:left;
+	position:relative;
+}
+.logo img{
+	position:relative;
+	left:20px;
+}
+.banner{
+	float:left;
+	position:relative;
+}
+.banner img{
+	position:relative;
+}
+.menu{
+	position:relative;
+	width:100%;
+	background-color:#99f;
+	height:40px;
+	clear:both;
+}
+.menu p{
+	float:left;
+	color:#000;
+	position:relative;
+	left:300px;
+	top:10px;
+}
+.menu ul{
+	width:100%;
+	background-color:#99f;
+}
+.menu ul li{
+	list-style:none;
+	width:100%;
+	color:#99f;
+}
+.menu ul li a{
+	color:#000;
+	text-decoration:none;
+	float:left;
+	position:relative;
+	left:300px;
+	top:10px;
+}
+.menu ul li a:hover{
+	color:#fff;
+}
+.menu input{
+	color:#000;
+	position:relative;
+	left:500px;
+	top:10px;
+}
+.menu a{
+	color:#bd0000;
+	text-decoration:none;
+	position:relative;
+	left:600px;
+	top:10px;
+}
+.menu a:hover{
+	color:#fff;
+}
+.h4{
+	position: absolute;
+	top:260px;
+	left:300px;
+}
+.h4 a{
+	text-decoration:none;
+	color:#000;
+}
+.h4 a:hover{
+	color:#fff;
+}
+.xianzhuang h5{
+	position:absolute;
+	top:300px;
+	left:300px;
+}
+.xianzhuang ul{
+	position:absolute;
+	top:350px;
+	left:400px;
+}
+.xianzhuang ul li{
+	line-height:1.5;
+	color:#bf0000;
+	width:140px;
+}
+.xianzhuang ul li a{
+	text-decoration: none;
+	color:#bf0000;
+}
+.xianzhuang ul li a:hover{
+	color:#00f;
+}
+.xingdong h5{
+	position: absolute;
+	top:470px;
+	left:300px;
+}
+.xingdong ul{
+	position:absolute;
+	left:400px;
+	top:500px;
+}
+.xingdong ul li{
+	line-height:1.5;
+	color:#bf0000;
+	width:250px;
+}
+.xingdong ul li a{
+	text-decoration: none;
+	color:#bf0000;
+}
+.xingdong ul li a:hover{
+	color:#00f;
+}
+.gongyi h5{
+	position: absolute;
+	left:300px;
+	top:630px;
+}
+.gongyi ul{
+	position:absolute;
+	left:400px;
+	top:680px;
+}
+.gongyi ul li{
+	line-height:1.5;
+	color:#bf0000;
+	width:250px;
+}
+.gongyi ul li a{
+	text-decoration: none;
+	color:#bf0000;
+}
+.gongyi ul li a:hover{
+	color:#00f;
+}
+.img{
+	position:absolute;
+	left:650px;
+}
+.bread a{
+	text-decoration:none;
+	position:relative;
+	top:575px;
+	left:300px;
+}
+.bread a:hover{
+	color:#f3f;
+}
+.foot{
+	background-color:#333;
+	height:50px;
+	clear:both;
+	position:absolute;
+	top:850px;
+	left:5px;
+	width:1340px;
+}
+.foot p,hr{
+	text-align:center;
+	position:relative;
+	top:10px;
+	color:#fff;
+}
